@@ -8,13 +8,13 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/SLCollins/liriNodeApp"
   },
   "keywords": [],
-  "author": "",
+  "author": "Stephanie Collins",
   "license": "ISC",
   "bugs": {
-    "url": ""
+    "url": "https://github.com/SLCollins/liriNodeApp/issues"
   },
   "homepage": "",
   "dependencies": {
